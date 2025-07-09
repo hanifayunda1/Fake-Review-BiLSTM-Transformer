@@ -10,3 +10,4 @@ seaborn
 missingno
 entrypoints
 imblearn
+streamlit-option-menu
