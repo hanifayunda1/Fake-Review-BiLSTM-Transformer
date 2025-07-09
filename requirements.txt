@@ -1,6 +1,8 @@
 streamlit
 numpy
 pandas
+keras
+tensorflow
 altair
 pydeck
 streamlit-extras
