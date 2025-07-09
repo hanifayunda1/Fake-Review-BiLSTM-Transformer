@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+altair
+pydeck
+streamlit-extras
+scikit-learn
+matplotlib
+seaborn
+missingno
+entrypoints
+imblearn
